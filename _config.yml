@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xingyu Starny LIU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "StarnyLIU"
   google_plus      :
   keybase          :
   instagram        :
@@ -175,13 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  awards:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _awards
   - scope:
       path: ""
-      type: teaching
+      type: awards
     values:
       layout: single
       author_profile: true
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
