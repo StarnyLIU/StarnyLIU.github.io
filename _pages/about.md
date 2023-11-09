@@ -27,13 +27,13 @@ Bachelor of Science  <br />
 Majoy in Electronic Information Science and Technology   <br />
 Nanjing University (NJU)<br />
 <br />
-<font size=4>2014 - 2020(expected)<font size=3>  <br />
+<font size=4>2014 - 2020<font size=3>  <br />
 High School  <br />
 Tianjin No.1 High School  <br />
 <br />
 
-# Collaboration
-  
+# Collaboration  
+
 I am always open to collaborative opportunities that can contribute to our understanding and capabilities as well as coming up with novel ideas to push the boundaries of technology.  <br />
 I am exploring potential research directions for my future studies, so I am eager to engage with more knowledge. Currently, my research interests mainly include:  <br />
 
