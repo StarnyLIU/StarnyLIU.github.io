@@ -29,7 +29,7 @@ Nanjing University (NJU)<br />
 <br />
 <font size=4>2014 - 2020(expected)<font size=3>  <br />
 High School  <br />
-Tianjin No.1 High School  <br />
+Tianjin No.1 High School  
 
 # Collaboration
   
