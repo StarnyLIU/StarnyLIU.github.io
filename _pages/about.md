@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a fourth-year undergraduate student at the School of Electronic Science and Engineering, Nanjing University. My major is Electronic Information Science and Technology. However, I am very interested in the field of integrated circuits, so I have taken almost all the courses related to integrated circuit design and integrated systems at Nanjing University. <br />
 <br />
-Next year, I will be going to the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology for my Ph.D, under the guidance of Professor Wei Zhang. My research interests lie in digital IC design, architecture design, and AI chips.  
+Next year, I will be going to the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology for my Ph.D, under the guidance of Professor Wei Zhang. My research interests lie in digital IC design, computer architecture, and AI chips.  
 
 # Education
 
