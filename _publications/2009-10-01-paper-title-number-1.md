@@ -8,6 +8,6 @@ venue: 'Foreign Electronic Measurement Technology'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 1.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
