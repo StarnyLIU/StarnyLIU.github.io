@@ -50,7 +50,6 @@ Nanjing University (NJU)<br />
 2014 - 2020  <br />
 High School  <br />
 Tianjin No.1 High School  <br />
-<br />  
 
 # News
 
@@ -69,5 +68,6 @@ I am exploring potential research directions for my future studies, so I am eage
 4. Reconfigurable computing (FPGA, CGRA)   <br />
 5. Computing In Memory   <br />
 <br />
+
 If you are interested to discuss potential projects or research, feel free to reach out to me at 201180123@smail.nju.edu.cn.  <br />
 <br />
