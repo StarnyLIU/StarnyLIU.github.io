@@ -36,13 +36,13 @@ Tianjin No.1 High School  <br />
 
 # Education
 
-2024 - 2028(expected)  <br />
+2024 - 2029 (expected)  <br />
 Ph.D Candidate  <br />
 Department of Electronic and Computer Engineering (ECE)  <br />
 The Hong Kong University of Science and Technolog(HKUST)  <br />
 Supervisor: Prof. Wei ZHANG<br />
 <br />
-2020 - 2024(expected)  <br />
+2020 - 2024 (expected)  <br />
 Bachelor of Science  <br />
 Majoy in Electronic Information Science and Technology   <br />
 Nanjing University (NJU)<br />
