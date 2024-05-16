@@ -12,8 +12,9 @@ redirect_from:
 
 Hi! I am currently a fourth-year undergraduate student at [the School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm), Nanjing University. My major is Electronic Information Science and Technology. However, I am very interested in the field of integrated circuits, so I have taken almost all the courses related to integrated circuit design and integrated systems at Nanjing University. <br />
 <br />
-Next year, I will be going to the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at the Hong Kong University of Science and Technology for my Ph.D, under the guidance of Professor [Wei Zhang](https://ece.hkust.edu.hk/eeweiz). My research interests lie in digital IC design, computer architecture, and AI chips.  
+Next year, I will be going to the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at the Hong Kong University of Science and Technology for my Ph.D, under the guidance of Professor [Wei Zhang](https://ece.hkust.edu.hk/eeweiz). My research interests lie in digital IC design, computer architecture, and AI chips.  <br />
 
+<!--
 # Education
 
 <font size=4>2024 - 2028(expected)<font size=3>  <br />
@@ -31,12 +32,31 @@ Nanjing University (NJU)<br />
 High School  <br />
 Tianjin No.1 High School  <br />
 <br />  
+-->
+
+# Education
+
+2024 - 2028(expected)  <br />
+Ph.D Candidate  <br />
+Department of Electronic and Computer Engineering (ECE)  <br />
+The Hong Kong University of Science and Technolog(HKUST)  <br />
+Supervisor: Prof. Wei ZHANG<br />
+<br />
+2020 - 2024(expected)  <br />
+Bachelor of Science  <br />
+Majoy in Electronic Information Science and Technology   <br />
+Nanjing University (NJU)<br />
+<br />
+2014 - 2020  <br />
+High School  <br />
+Tianjin No.1 High School  <br />
+<br />  
 
 # News
 
-[2024-3-15] My first journal paper 'Design of an Analogue Modulation Parameter Measuring System for Radio Signals' has been accepted to Chinese Core Journal "[Foreign Electronic Measurement Technology](http://femt.etmchina.com/femt/home)". This is also my first first-author paper!
+[2024-3-15] My first journal paper 'Design of an Analogue Modulation Parameter Measuring System for Radio Signals' has been accepted to Chinese Core Journal "[Foreign Electronic Measurement Technology](http://femt.etmchina.com/femt/home)". This is also my first first-author paper!<br />
 
-[2023-11-13] I build me own homepage! I'll try to improve the content of my homepage in the future!
+[2023-11-13] I build me own homepage! I'll try to improve the content of my homepage in the future!<br />
 
 # Collaboration  
 
