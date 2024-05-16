@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards"
-    url: /talks/    
+#  - title: "Awards"
+#    url: /talks/    
 
-  - title: "Internship"
-    url: /teaching/    
+#  - title: "Internship"
+#    url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/
