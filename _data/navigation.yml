@@ -9,11 +9,11 @@ main:
 #  - title: "Internship"
 #    url: /teaching/    
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "PaperReading"
+    url: /PaperReading/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Talks"
-    url: /talks/
+#  - title: "PaperReading"
+#    url: /PaperReading/
