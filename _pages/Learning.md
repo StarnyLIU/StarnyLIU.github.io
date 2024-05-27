@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "PaperReading"
-permalink: /PaperReading/
+title: "Learning"
+permalink: /Learning/
 author_profile: true
 ---
 
