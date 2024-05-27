@@ -64,9 +64,9 @@ Related Work
         * 第二代AMD EPYC™处理器小芯片的整体布局类似于星形拓扑，可提供更均匀的内存访问延迟。来自CCD的每个内存请求都直接跳到IOD，然后高性能Data Fabric从那里将请求路由到八个目标内存通道之一。请注意，某些存储通道仍然离每个CCD更近或更远，因此仍然存在一些NUMA效应，但与上一代方法相比，它们大大降低了。
       * 总体成本和性能
         * 显示了从 64 个内核到 16 个内核的五种不同可能配置的相对成本（7nm + 12nm 对比假设只用7nm）。
-![AMD-Chiplet Figure 14](http://strnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_14.gif)
+![AMD-Chiplet Figure 14](http://starnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_14.gif)
         * 该图表说明了几个重要的趋势，这些趋势真正证明了小芯片方法的力量和价值。首先，在所有配置中，最终的硅成本明显低于任何单片等效产品。其次，随着核心数量的变化，成本以平缓的斜率线性扩展。上图底部还说明了如何通过简单地从封装中减少 CCD 的填充来实现不同的内核数量。这直观地展示了如何仅通过两个流片（其中只有一个在领先的 7nm 节点中），能够灵活地启用整个服务器产品堆栈，包括 64 核选项，否则制造在技术和经济上都是不切实际的。
-![AMD-Chiplet Figure 15](http://strnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_14.gif)
+![AMD-Chiplet Figure 15](http://starnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_14.gif)
   
 
   </br>

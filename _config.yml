@@ -121,7 +121,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
   - _PaperReading
   - _ProjectLog
   - files
@@ -201,17 +200,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _PaperReading
   - scope:
       path: ""
