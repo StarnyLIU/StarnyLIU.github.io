@@ -7,4 +7,4 @@ author_profile: true
 
 ## Papers
 
-[PaperReading Link](https://staryLIU.github.io/PaperReading/)
+[PaperReading Link](https://starnyLIU.github.io/_PaperReading/)
