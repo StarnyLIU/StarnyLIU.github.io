@@ -65,9 +65,16 @@ Related Work
       * 总体成本和性能
         * 显示了从 64 个内核到 16 个内核的五种不同可能配置的相对成本（7nm + 12nm 对比假设只用7nm）。
 ![AMD-Chiplet Figure 14](http://starnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_14.gif)
-        * 该图表说明了几个重要的趋势，这些趋势真正证明了小芯片方法的力量和价值。首先，在所有配置中，最终的硅成本明显低于任何单片等效产品。其次，随着核心数量的变化，成本以平缓的斜率线性扩展。上图底部还说明了如何通过简单地从封装中减少 CCD 的填充来实现不同的内核数量。这直观地展示了如何仅通过两个流片（其中只有一个在领先的 7nm 节点中），能够灵活地启用整个服务器产品堆栈，包括 64 核选项，否则制造在技术和经济上都是不切实际的。
-![AMD-Chiplet Figure 15](http://starnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_14.gif)
-  
+        * 上图说明了几个重要的趋势，这些趋势真正证明了小芯片方法的力量和价值。首先，在所有配置中，最终的硅成本明显低于任何单片等效产品。其次，随着核心数量的变化，成本以平缓的斜率线性扩展。上图底部还说明了如何通过简单地从封装中减少 CCD 的填充来实现不同的内核数量。这直观地展示了如何仅通过两个流片（其中只有一个在领先的 7nm 节点中），能够灵活地启用整个服务器产品堆栈，包括 64 核选项，否则制造在技术和经济上都是不切实际的。
+![AMD-Chiplet Figure 15](http://starnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_15.gif)
+        * 上图显示了第一代和第二代 AMD EPYC处理器的对比。小芯片方法使每个socket的总内核数翻了一番。晶体管的总数增加了一倍多，器件总数超过380亿个，而封装中的总硅面积仅增加了18%。该指标仅计算硅的总面积，对密度较大的7nm硅与14nm的处理没有任何区别，因此总硅的相对较小的增加突出了7nm工艺节点的密度优势。在上图最后显示了双插槽 （2P） 服务器平台 1 在 SPEC 速率®上测量的整体性能。性能提升是内核数量翻倍、时钟速度更高、更新的“Zen 2”微架构的更高 IPC 以及第二代产品更高的支持功率限制 （TDP） 的组合。
+    * AMD Ryzen™ Processors（锐龙处理器） 
+      * 第一代：单个“Zeppelin” chiplet放入client AM4 封装中，8 cores、2 DDR4、24 I/O lane的台式机处理器。
+      * 第三代：基于第二代AMD EPYC™ 处理器的芯片。2 CCDs（16 cores） and a "client IOD" (cIOD)，如下图所示。其中CCD与之前的完全相同；cIOD是一个新芯片，在很大程度上利用了服务器IOD设计。
+![AMD-Chiplet Figure 16](http://starnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_16.gif)
+      * 上图所示的cIOD面积125平方毫米、有20.9亿晶体管，2 DDR，32 PCIe 2IFOP to CCD，面积仅为服务器 IOD 的四分之一。
+      * 成本和性能：下图显示了16核（两个 CCD）和8核（一个 CCD）小芯片实现与假设的单片7nm设计相比的相对芯片成本。
+![AMD-Chiplet Figure 17](http://starnyliu.github.io/_PaperReading/images/AMD-Chiplet_Figure_17.gif)
 
-  </br>
+</br>
 * THU first heterogenous CIM-based accelerator for image-generative diffusion models
