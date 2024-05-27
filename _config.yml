@@ -122,6 +122,10 @@ include:
   - .htaccess
   - _pages
   - files
+  - _PaperReading
+  - _ProjectLog
+  - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -175,6 +179,12 @@ kramdown:
 
 # Collections
 collections:
+  PaperReading:
+    output: true
+    permalink: /:collection/:path/
+  ProjectLog:
+    output: true
+    permalink: /:collection/:path/
   awards:
     output: true
     permalink: /:collection/:path/
@@ -201,6 +211,28 @@ defaults:
       read_time: true
       comments: true
       share: true
+      related: true
+  # _PaperReading
+  - scope:
+      path: ""
+      type: PaperReading
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: true
+  # _ProjectLog
+  - scope:
+      path: ""
+      type: ProjectLog
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
