@@ -3,9 +3,9 @@ title: "Design of an analogue modulation parameter measuring system for radio si
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'X. LIU, N. JIANG, Y. XU, Z. ZHANG, J. WU '
-date: 2024-03-25
+date: 2024-05-15
 venue: 'Foreign Electronic Measurement Technology'
-paperurl: 'http://femt.cnjournals.com/femt/article/abstract/F2305806'
+paperurl: 'http://femt.etmchina.com/femt/article/abstract/20240515?st=article_issue'
 
 ---
 <!--This paper is about the number 1.-->

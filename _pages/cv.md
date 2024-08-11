@@ -20,6 +20,9 @@ Work experience
   * [Tianjin Fangwei Information System Engineering Technology Co., LTD](http://www.fdway.com/)
   * Duties included: System operation maintenance and upgrade
   * Supervisor: Manager Yunyang ZHANG
+  
+* July. 2024 - August 2024: Digital Energy Engineer
+  * [CHINA STATE CONSTRUCTION ENGINEERING CORPORATION (CSCEC)](https://www.cscec.com.cn/gyzj/gsjj_new/)
 
 Research experience
 ======
@@ -53,8 +56,7 @@ Skills
   * C/C++ 
   * Shell
   * Assembly
-  * QEMU
-  * GEM5
+
 
 Publications
 ======
@@ -75,12 +77,12 @@ Teaching
   {% endfor %}</ul>
 -->  
 
-Honors and Awards
+Selected Honors and Awards
 ======
 * Scholarship
+  * RedBird Scholarship, HKUST, 2024
   * National Scholarship (Highest scholarship for Chinese undergraduates), 2023
-  * Competition Awards
-* People's Scholarship, Nanjing University, 2021&2022&2023
+  * People's Scholarship, Nanjing University, 2021&2022&2023
 * Competition Award
   * First prize(No.1 of NJU, Top 5 of the whole teams of Jiangsu Province) in TI cup Jiangsu Province college students electronic design competition, 2022 
 * Honors
@@ -95,5 +97,6 @@ Service and leadership
 * Chief of the grade, Nanjing University, 2022-2023
 * Permanent representative to the Student Congress, Nanjing University, 2022-2023
 * Freshman peer mentor, Nanjing University, 2022-2023
-* Community Volunteers Fighting COVID-19, 2021&2022
-* Vice leader of the social Practice program (The achievements were reported in provincial newspapers), 2021
+<!-- * Community Volunteers Fighting COVID-19, 2021&2022
+# * Vice leader of the social Practice program (The achievements were reported in provincial newspapers), 2021
+-->
