@@ -97,6 +97,4 @@ Service and leadership
 * Chief of the grade, Nanjing University, 2022-2023
 * Permanent representative to the Student Congress, Nanjing University, 2022-2023
 * Freshman peer mentor, Nanjing University, 2022-2023
-<!-- * Community Volunteers Fighting COVID-19, 2021&2022
- * Vice leader of the social Practice program (The achievements were reported in provincial newspapers), 2021
--->
+
