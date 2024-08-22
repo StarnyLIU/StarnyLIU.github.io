@@ -10,9 +10,10 @@ redirect_from:
 
 # About Me
 
-Hi! I am currently a fourth-year undergraduate student at [the School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm), Nanjing University. My major is Electronic Information Science and Technology. However, I am very interested in the field of integrated circuits, so I have taken almost all the courses related to integrated circuit design and integrated systems at Nanjing University. <br />
+Hi! I am currently a first year Ph.D. student [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at the Hong Kong University of Science and Technology, under the guidance of Professor [Wei Zhang](https://ece.hkust.edu.hk/eeweiz). My research interests lie in digital IC design, computer architecture, and FPGA-based accelerator design.<br />
 <br />
-Next year, I will be going to the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at the Hong Kong University of Science and Technology for my Ph.D, under the guidance of Professor [Wei Zhang](https://ece.hkust.edu.hk/eeweiz). My research interests lie in digital IC design, computer architecture, and AI chips.  <br />
+I got my Bs.c. degree at [the School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm), Nanjing University in 2024. And my major is Electronic Information Science and Technology.<br />
+
 
 <!--
 # Education
@@ -37,12 +38,12 @@ Tianjin No.1 High School  <br />
 # Education
 
 2024 - 2029 (expected)  <br />
-Ph.D Candidate  <br />
+Ph.D Student  <br />
 Department of Electronic and Computer Engineering (ECE)  <br />
 The Hong Kong University of Science and Technolog(HKUST)  <br />
 Supervisor: Prof. Wei ZHANG<br />
 <br />
-2020 - 2024 (expected)  <br />
+2020 - 2024  <br />
 Bachelor of Science  <br />
 Majoy in Electronic Information Science and Technology   <br />
 Nanjing University (NJU)<br />
@@ -62,12 +63,11 @@ Tianjin No.1 High School  <br />
 I am always open to collaborative opportunities that can contribute to our understanding and capabilities as well as coming up with novel ideas to push the boundaries of technology.  <br />
 I am exploring potential research directions for my future studies, so I am eager to engage with more knowledge. Currently, my research interests mainly include:  <br />
 
-1. AI computing architecture design for edge computing (AI chip design and algorithm-hardware co-optimization)   <br />
-2. High-performance digital chip design   <br />
-3. Computer Architecture  <br />
-4. Reconfigurable computing (FPGA, CGRA)   <br />
-5. Computing In Memory   <br />
+1. High-performance Digital Chip Design   <br />
+2. FPGA-based Accelerator Design   <br />
+3. Electronic Design Automation Algorithm
+4. Computer Architecture  <br />
 <br />
 
-If you are interested to discuss potential projects or research, feel free to reach out to me at 201180123@smail.nju.edu.cn.  <br />
+If you are interested to discuss potential projects or research, feel free to reach out to me at xliugu@connect.ust.hk.  <br />
 <br />

@@ -49,7 +49,7 @@ Skills
   * Vivado
   * Verilog
 * Machine Learning
-  * Python3 
+  * Python
   * Pytorch
   * Matlab
 * Computer System & Computer Architecture
