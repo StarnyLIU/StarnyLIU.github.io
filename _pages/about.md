@@ -10,9 +10,9 @@ redirect_from:
 
 # About Me
 
-Hi! I am currently a first year Ph.D. student [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at the Hong Kong University of Science and Technology, under the guidance of Professor [Wei Zhang](https://ece.hkust.edu.hk/eeweiz). My research interests lie in digital IC design, computer architecture, and FPGA-based accelerator design.<br />
+Hi! I am currently a first year Ph.D. student of [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at the Hong Kong University of Science and Technology, under the guidance of Professor [Wei Zhang](https://ece.hkust.edu.hk/eeweiz). My research interests lie in digital IC design, computer architecture, and FPGA-based accelerator design.<br />
 <br />
-I got my Bs.c. degree at [the School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm), Nanjing University in 2024. And my major is Electronic Information Science and Technology.<br />
+I got my Bs.C. degree at [the School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm), Nanjing University in 2024. And my major is Electronic Information Science and Technology.<br />
 
 
 <!--
